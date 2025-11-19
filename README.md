@@ -1,67 +1,93 @@
-<h1 align="center">Hi 👋, I'm Dhivin Varshan</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India</h3>
-
----
-
-### 🔥 About Me  
-- 🌱 I’m currently learning **Spring Boot, WebSockets, React, and Microservices**  
-- 💡 I love building **real-world projects & solving problems**  
-- 🚀 My Goal: Become a **Full-Stack Software Engineer**  
-- 📫 Reach me at **dhivin26@gmail.com**
-
----
-
-## 🚀 Tech Stack
-
-### 💻 Languages  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-### 🎨 Frontend  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-
-### ⚙ Backend  
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-4e9a06?style=for-the-badge&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-1572B6?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🛠 DevOps  
-![GitHub](https://img.shields.io/badge/gitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-## 📂 Featured Projects
-
-### 🚗 Vehicle Rental Website  
-Professional UI + CRUD + Login + Payment Integration  
-🔗 Demo: *(Your link)*
-
-### 📡 Real-time Chat App (WebSockets)  
-Spring Boot + React + Live Messaging  
-🔗 Repo: *(Your link)*
-
-### 📊 Student Management System  
-Spring Boot + MySQL + Thymeleaf  
-🔗 Repo: *(Your link)*
-
----
-
-## 📊 GitHub Analytics
+<!-- HEADER -->
+<h1 align="center">🚀Dhivin Varshan K</h1>
+<h3 align="center">Full-Stack Developer | Java • Spring Boot • React</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhivin26&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivin26&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://img.shields.io/badge/Java%20Developer-%23007396?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-Expert-brightgreen?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-Enthusiast-blue?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Learning-Microservices%20%7C%20Docker%20%7C%20WebSocket-orange?style=for-the-badge"/>
 </p>
 
 ---
 
-## 🤝 Connect With Me  
+## 👨‍💻 **About Me**
+I'm a passionate **Full-Stack Developer** specializing in building:
+
+✔ Scalable backend systems  
+✔ Real-time communication apps (WebSocket / RSocket)  
+✔ Clean, high-performance REST APIs  
+✔ Modern interactive UIs with React  
+
+💡 *I love turning ideas into production-ready applications.*  
+
+📨 **Email:** *dhivin26@gmail.com*
+
+---
+
+# 🧰 **Tech Stack**
+
+### 🔥 **Backend Expertise**
 <p>
-<a href="mailto:dhivin26@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,gradle" height="45" />
+</p>
+
+### 🎨 **Frontend Development**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,bootstrap" height="45" />
+</p>
+
+### 🗄️ **Databases**
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" height="45" />
+</p>
+
+### 🚀 **DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel" height="45" />
 </p>
 
 ---
+
+# 🚀 **Highlighted Projects**
+
+### ⭐ **DK Automobiles – Vehicle & Service Booking System**
+📌 *Java • JSP • MySQL • Bootstrap*  
+A complete vehicle & service booking platform featuring admin management and full CRUD.
+
+🔗 **Repo:** https://github.com/dhivinvarshan-it/Service-booking-System  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhivinvarshan-it&repo=Service-booking-System&theme=tokyonight" />
+</p>
+
+---
+
+### ⭐ **Personal Portfolio Website**
+📌 *React • Framer Motion • EmailJS • Vercel*  
+Modern animated portfolio with smooth UI/UX and contact automation.
+
+🔗 **Repo:** https://github.com/dhivinvarshan-it/PortFolio-Website  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=dhivinvarshan-it&repo=PortFolio-Website&theme=tokyonight" />
+</p>
+
+---
+
+# 📊 **GitHub Stats & Analytics**
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=dhivinvarshan-it&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=dhivinvarshan-it&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhivinvarshan-it&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+# 🌐 **Connect With Me**
+<p align="center">
+  <a href="mailto:dhivin26@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+  <a href="https://www.linkedin.com/in/dhivin-dk-175499368/"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+</p>
+
+---
+
+## ✨ *"Consistency is the key to mastering development. Keep building, keep shipping!"*
